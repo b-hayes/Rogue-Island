@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - monster
+  - bulletinthehead
+  - border
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - monsters
+  - projectiles
+  - player
+  - border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1155266589
+    locked: 0
+  - name: border
+    uniqueID: 1157123391
+    locked: 0
+  - name: monsters
+    uniqueID: 986334735
+    locked: 0
+  - name: Middle
+    uniqueID: 1039159929
+    locked: 0
+  - name: forground
+    uniqueID: 716546381
+    locked: 0
+  - name: projectiles
+    uniqueID: 838482191
+    locked: 0
